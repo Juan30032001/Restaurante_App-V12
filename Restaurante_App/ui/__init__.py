@@ -1,0 +1,1 @@
+"""Vistas Tkinter de Restaurante App."""

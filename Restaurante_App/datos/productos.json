@@ -1,0 +1,23 @@
+[
+	{
+		"codigo": "P001",
+		"nombre": "Hamburguesa artesanal",
+		"categoria": "Comida",
+		"precio": 8.5,
+		"stock": 12
+	},
+	{
+		"codigo": "P002",
+		"nombre": "Limonada natural",
+		"categoria": "Bebida",
+		"precio": 3.0,
+		"stock": 20
+	},
+	{
+		"codigo": "P003",
+		"nombre": "Ensalada fresca",
+		"categoria": "Comida",
+		"precio": 6.75,
+		"stock": 8
+	}
+]

@@ -1,0 +1,16 @@
+[
+	{
+		"identificacion": "C001",
+		"nombre": "Juan Mendoza",
+		"correo": "juan@smockrockandgrill.com",
+		"contrasena": "1234",
+		"rol": "Administrador"
+	},
+	{
+		"identificacion": "C002",
+		"nombre": "Luis Pérez",
+		"correo": "luis@restaurante.com",
+		"contrasena": "abcd",
+		"rol": "Cliente"
+	}
+]
